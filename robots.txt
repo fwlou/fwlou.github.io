@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fwlou.github.io/wMQ/sitemap.wMQ.gz
